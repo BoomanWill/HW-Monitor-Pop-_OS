@@ -10,6 +10,5 @@ pip install matplotlib
 
 
 sudo mkdir ~/.hwmonitor
-sudo mv hwmonitor.py ~/.hwmonitor/hwmonitor.py
 sudo mv hwmonitor ~/.hwmonitor/hwmonitor
 sudo ln -s ~/.hwmonitor/hwmonitor /usr/bin/hwmonitor
